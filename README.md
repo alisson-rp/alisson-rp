@@ -21,6 +21,6 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBe" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-    ![Snake animation](https://github.com/alisson-rp/alisson-rp/blob/output/github-contribution-grid-snake.svg)   
+    ![snake gif](https://github.com/alisson-rp/alisson-rp/blob/output/github-contribution-grid-snake.gif)  
     
 </div>
