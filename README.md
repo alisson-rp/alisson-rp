@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Alisson R Pereira 🖖
 
+-> 👨‍🎓 Cursando Analize e desenvolvimento de Sistemas 2/5  
+
 <div>
     <a hret="https://github.com/alisson-rp">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alisson-rp&show_icons=true&theme=dracula">
