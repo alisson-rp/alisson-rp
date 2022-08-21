@@ -2,8 +2,8 @@
 
 <div>
     <a hret="https://github.com/alisson-rp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisson-rp&show_icons=true&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-rp&layout=compact&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisson-rp&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-rp&layout=compact&theme=dracula">
 </div>
     
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-pereira-5a4827212/)
@@ -21,5 +21,4 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
-    ![Snake animation](https://github.com/alisson-rp/alisson-rp/blob/output/github-contribution-grid-snake.svg)
 </div>
