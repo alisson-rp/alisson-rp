@@ -2,8 +2,8 @@
 
 <div>
     <a hret="https://github.com/alisson-rp">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=alisson-rp&show_icons=true&theme=dracula">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-rp&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alisson-rp&show_icons=true&theme=dracula">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-rp&layout=compact&theme=dracula">
 </div>
     
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-pereira-5a4827212/)
