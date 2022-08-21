@@ -2,7 +2,7 @@
 
 
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson-rp&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/alisson-rp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-rp&layout=compact&theme=dracula)](https://github.com/alisson-rp/github-readme-stats)
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-pereira-5a4827212/)
 [![Linkdin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alisson.r.pereira/)
