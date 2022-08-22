@@ -14,7 +14,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/contato.alissonrpereira@gmail.com)
 
 
-## Tecnologias que estou me desenvolvendo... 
+## Tecnologias que estou me desenvolvendo...  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
