@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alisson R Pereira 🖖
 
--> 👨‍🎓 Cursando Analize e desenvolvimento de Sistemas 4/5  
+-> 👨‍🎓 Analize e desenvolvimento de Sistemas  
     
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-pereira-5a4827212/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alisson.r.pereira/)
